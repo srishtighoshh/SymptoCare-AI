@@ -59,14 +59,11 @@ SymptoCare-AI/
 
 ## How to Run the Project
 
+## How to Run the Project
+
 ### Install Required Libraries
 
 Open terminal and run:
-
-```bash
-pip install -r requirements.txt
-
-### Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -75,10 +72,20 @@ pip install -r requirements.txt
 ### Run the Application
 
 Run the following command:
+
 ```bash
 streamlit run app.py
 ```
 
+### Open in Browser
+
+After running the command, the application will open automatically.
+
+If it does not open automatically, open:
+
+```text
+http://localhost:8501
+```
 
 ## Machine Learning Model
 
