@@ -6,6 +6,10 @@ SymptoCare AI is a Machine Learning-based health symptom checker that predicts p
 
 The project uses a Random Forest Classifier trained on symptom data to provide preliminary disease predictions and precaution suggestions.
 
+## Live Application
+
+[Click Here to Open SymptoCare AI](https://symptocare-ai-ynyv3u2tetfzv4bmwrspfc.streamlit.app/)
+
 ## Features
 
 - Disease prediction using Machine Learning
