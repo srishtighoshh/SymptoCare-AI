@@ -26,7 +26,6 @@ SymptoCare AI is a Machine Learning-based health symptom checker that predicts p
 - Pandas
 - NumPy
 - scikit-learn
-- Joblib
 - Google Colab
 - GitHub
 
@@ -38,9 +37,6 @@ SymptoCare-AI/
 │
 ├── dataset/
 │   └── symptoms_dataset.csv
-│
-├── model/
-│   └── disease_model.pkl
 │
 ├── project_report/
 │   └── Project Report.pdf
