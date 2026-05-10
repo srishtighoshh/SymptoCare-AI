@@ -59,8 +59,6 @@ SymptoCare-AI/
 
 ## How to Run the Project
 
-## How to Run the Project
-
 ### Install Required Libraries
 
 Open terminal and run:
